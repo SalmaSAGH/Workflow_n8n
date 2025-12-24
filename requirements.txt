@@ -1,0 +1,6 @@
+streamlit
+chromadb
+fastapi
+uvicorn
+requests
+mcp
