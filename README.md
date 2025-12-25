@@ -131,6 +131,3 @@ curl -X POST http://localhost:3334/memory/add \
 - Escalation Agent: Creates tickets
 - Memory Agent: Stores conversations
 
-## License
-
-MIT
